@@ -10,7 +10,7 @@ Welcome to the "Learn Prolog Now!" Exercises Repository. This repository is dedi
 "Learn Prolog Now!" is a comprehensive online course and textbook designed to teach Prolog programming from the basics to advanced topics. The book covers fundamental Prolog concepts, logical reasoning, and practical applications through a series of engaging exercises.
 
 ## Table of Contents
-1. [-]() <br>
+1. [Facts, Rules and Queries](./01-Facts-Rules-Queries/) <br>
 
 ## How to Use This Repository
 
