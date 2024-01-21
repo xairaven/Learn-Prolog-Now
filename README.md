@@ -15,7 +15,10 @@ Welcome to the "Learn Prolog Now!" Exercises Repository. This repository is dedi
 ## How to Use This Repository
 
 1. **Clone the Repository**: Use the following command to clone this repository to your local machine. <br>
-   `git clone https://github.com/xairaven/Learn-Prolog-Now.git`
+   ```sh
+   git clone https://github.com/xairaven/Learn-Prolog-Now.git
+   ```
+   
 2.  **Navigate to the Chapter**: Explore the folder of needed chapter and navigate to the task you are working on.
 3. **Review Code and Solutions**: Open the Prolog code files to review the exercises. Compare your solutions with the provided.
 4. **Contribute**: Feel free to contribute your solutions, improvements, or additional exercises by creating pull requests.
@@ -26,14 +29,23 @@ If you would like to contribute to this repository, follow these steps:
 
 1. Fork the repository to your GitHub account.
 2. Clone the forked repository to your local machine: <br>
-   `git clone https://github.com/xairaven/Learn-Prolog-Now.git`
+    ```sh
+    git clone https://github.com/xairaven/Learn-Prolog-Now.git
+    ```
 3. Create a new branch for your contributions: <br>
-   `git checkout -b feature/new-feature`
+    ```sh
+    git checkout -b feature/new-feature
+    ```
 4. Make your changes, add new exercises, or improve existing ones.
 5. Commit your changes: <br>
-   `git commit -m "Add a brief description of your changes"`
+
+    ```sh
+    git commit -m "Add a brief description of your changes"
+    ```
 6. Push your changes to your forked repository: <br>
-   `git push origin feature/new-feature`
+   ```sh
+    git push origin feature/new-feature
+    ```
 7. Create a pull request on the main repository to merge your changes.
 
 ## Support and Discussions
