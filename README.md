@@ -11,6 +11,7 @@ Welcome to the "Learn Prolog Now!" Exercises Repository. This repository is dedi
 
 ## Table of Contents
 1. [Facts, Rules and Queries](./01-Facts-Rules-Queries/) <br>
+2. [Matching and Proof Search](./02-Matching-Proof-Search/) <br>
 
 ## How to Use This Repository
 
