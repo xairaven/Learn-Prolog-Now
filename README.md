@@ -30,7 +30,14 @@ Welcome to the "Learn Prolog Now!" Exercises Repository. This repository is dedi
    - [Member](./04-Lists/02-Member/)
    - [Recursing Down Lists](./04-Lists/03-Recursing-Down-Lists/)
    - [Exercises](./04-Lists/04-Exercises/)
-   - [Practical Session 4](./04-Lists/05-Practical-Session-4/) 
+   - [Practical Session 4](./04-Lists/05-Practical-Session-4/)
+5. [Arithmetic](./05-Arithmetic/)
+   - [Arithmetic in Prolog](./05-Arithmetic/01-Arithmetic-in-Prolog/)
+   - [A closer look](./05-Arithmetic/02-A-Closer-Look/)
+   - [Arithmetic and lists](./05-Arithmetic/03-Arithmetic-and-Lists/)
+   - [Comparing integers](./05-Arithmetic/04-Comparing-Integers/)
+   - [Exercises](./05-Arithmetic/05-Exercises/)
+   - [Practical Session 5](./05-Arithmetic/06-Practical-Session-5/)
 
 ## Important note!
 I use the **SWI-Prolog** interpreter for this project.
