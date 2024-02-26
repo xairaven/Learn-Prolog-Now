@@ -1,0 +1,1 @@
+prefix(P, L) :- append(P, _, L).
