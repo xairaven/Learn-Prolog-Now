@@ -38,6 +38,11 @@ Welcome to the "Learn Prolog Now!" Exercises Repository. This repository is dedi
    - [Comparing integers](./05-Arithmetic/04-Comparing-Integers/)
    - [Exercises](./05-Arithmetic/05-Exercises/)
    - [Practical Session 5](./05-Arithmetic/06-Practical-Session-5/)
+6. [More lists](./06-More-Lists/)
+   - [Append](./06-More-Lists/01-Append/)
+   - [Reversing a list](./06-More-Lists/02-Reversing-a-List/)
+   - [Exercises](./06-More-Lists/03-Exercises/)
+   - [Practical Session 6](./06-More-Lists/04-Practical-Session-6/)
 
 ## Important note!
 I use the **SWI-Prolog** interpreter for this project.
