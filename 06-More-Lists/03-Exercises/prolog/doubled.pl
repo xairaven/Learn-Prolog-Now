@@ -1,0 +1,1 @@
+doubled(List) :- append(Block, Block, List).
